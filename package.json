@@ -7,11 +7,16 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "monaco-editor": "^0.34.0",
     "vue": "^3.2.37",
-    "vue-router": "^4.1.2"
+    "vue-router": "^4.1.2",
+    "y-monaco": "^0.1.4",
+    "y-webrtc": "^10.2.3",
+    "yjs": "^13.5.41"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.1",
-    "vite": "^3.0.1"
+    "vite": "^3.0.1",
+    "vite-plugin-monaco-editor": "^1.1.0"
   }
 }
